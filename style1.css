@@ -1,0 +1,10 @@
+h1,h3{
+    color: darkblue;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+body{
+    background-color: #f7f2f7;
+}
